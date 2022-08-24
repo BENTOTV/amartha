@@ -9,7 +9,8 @@ class HomePage extends StatelessWidget {
       child:  Column(
         children: const [
           Text("Helo World"),
-          Text("Agus Juniartha")
+          Text("Agus Juniartha"),
+          Text("Universitas")
         ],
       ),
 
