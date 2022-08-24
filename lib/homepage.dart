@@ -11,7 +11,8 @@ class HomePage extends StatelessWidget {
           Text("Helo World"),
           Text("Agus Juniartha"),
           Text("Universitas"),
-          Text("Udayana")
+          Text("Udayana"),
+          Text("Contoh Feature B")
         ],
       ),
 
