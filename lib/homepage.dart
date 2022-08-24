@@ -5,8 +5,14 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text("Helo World"),
+    return  Center(
+      child:  Column(
+        children: const [
+          Text("Helo World"),
+          Text("Agus Juniartha")
+        ],
+      ),
+
     );
   }
 }
