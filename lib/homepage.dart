@@ -10,7 +10,8 @@ class HomePage extends StatelessWidget {
         children: const [
           Text("Helo World"),
           Text("Agus Juniartha"),
-          Text("Universitas")
+          Text("Universitas"),
+          Text("Udayana")
         ],
       ),
 
