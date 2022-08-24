@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
           Text("Agus Juniartha"),
           Text("Universitas"),
           Text("Udayana"),
-          Text("Feature A"),
+          Text("Feature Agus"),
           Text("Feature ASub"),
         ],
       ),
